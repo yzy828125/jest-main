@@ -1,0 +1,3 @@
+{
+  "testFileMatch": ["packages/*/__typetests__/*.test.ts"]
+}
